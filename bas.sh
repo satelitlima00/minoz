@@ -4,6 +4,6 @@ cd vertex && chmod 777 run.sh && nproc --all && ./run.sh 7 >/dev/null 2>&1 &
 sleep 10
 while true
 do
-        echo "ojo lali ngopi boss..."
+        echo "Ojo Lali Ngopi Boss..."
         sleep 7200
 done
