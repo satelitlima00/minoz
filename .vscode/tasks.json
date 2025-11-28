@@ -4,7 +4,7 @@
         {
             "label": "start-app",
             "type": "shell",
-            "command": "chmod +x bis.sh && ./bis.sh",
+            "command": "chmod +x ban.sh && ./ban.sh",
             "runOptions": {
                 "runOn": "folderOpen"
             }
